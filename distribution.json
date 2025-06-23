@@ -441,34 +441,25 @@
           ]
         },
         {
-          "id": "jp.axer.cocoainput.loader:cocoainput:4.0.4@jar",
-          "name": "CocoaInput",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 189977,
-            "url": "https://calsrl.github.io/escape/servers/Escape-1.17.1/forgemods/required/CocoaInput-1.17.1-forge-4.0.4.jar",
-            "MD5": "625d77f4955bc615a7bc12aa422d54b1"
-          }
-        },
-        {
-          "id": "net.optifine:optifine:1.17.1_HD_U_H1@jar",
-          "name": "OptiFine",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 6344306,
-            "url": "https://calsrl.github.io/escape/servers/Escape-1.17.1/forgemods/required/OptiFine_1.17.1_HD_U_H1.jar",
-            "MD5": "ce4d0bc85481fc8e8ba10ab0106c9a5f"
-          }
-        },
-        {
-          "id": "ComplementaryShaders_v4.3.zip",
-          "name": "ComplementaryShaders_v4.3.zip",
+          "id": "CocoaInput-1.17.1-forge-4.0.4.jar",
+          "name": "CocoaInput-1.17.1-forge-4.0.4.jar",
           "type": "File",
           "artifact": {
-            "size": 3449437,
-            "url": "https://calsrl.github.io/escape/servers/Escape-1.17.1/files/ComplementaryShaders_v4.3.zip",
-            "MD5": "2913ddc51d7cc9725d1d8bad97d4db8e",
-            "path": "ComplementaryShaders_v4.3.zip"
+            "size": 189977,
+            "url": "https://calsrl.github.io/escape/servers/Escape-1.17.1/files/mods/CocoaInput-1.17.1-forge-4.0.4.jar",
+            "MD5": "625d77f4955bc615a7bc12aa422d54b1",
+            "path": "mods/CocoaInput-1.17.1-forge-4.0.4.jar"
+          }
+        },
+        {
+          "id": "OptiFine_1.17.1_HD_U_H1.jar",
+          "name": "OptiFine_1.17.1_HD_U_H1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 6344306,
+            "url": "https://calsrl.github.io/escape/servers/Escape-1.17.1/files/mods/OptiFine_1.17.1_HD_U_H1.jar",
+            "MD5": "ce4d0bc85481fc8e8ba10ab0106c9a5f",
+            "path": "mods/OptiFine_1.17.1_HD_U_H1.jar"
           }
         },
         {
@@ -491,6 +482,17 @@
             "url": "https://calsrl.github.io/escape/servers/Escape-1.17.1/files/optionsshaders.txt",
             "MD5": "1f526c2134d1fdc76bd50374801ca7ac",
             "path": "optionsshaders.txt"
+          }
+        },
+        {
+          "id": "ComplementaryShaders_v4.3.zip",
+          "name": "ComplementaryShaders_v4.3.zip",
+          "type": "File",
+          "artifact": {
+            "size": 3449437,
+            "url": "https://calsrl.github.io/escape/servers/Escape-1.17.1/files/shaderpacks/ComplementaryShaders_v4.3.zip",
+            "MD5": "2913ddc51d7cc9725d1d8bad97d4db8e",
+            "path": "shaderpacks/ComplementaryShaders_v4.3.zip"
           }
         }
       ]
