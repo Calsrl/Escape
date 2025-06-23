@@ -31,7 +31,7 @@
           "artifact": {
             "size": 109566,
             "MD5": "a905dc8b8194c19f064c455854bddba7",
-            "url": "https://calsrl.github.io/test123/repo/lib/net/minecraftforge/fmlcore/1.17.1-37.1.1/fmlcore-1.17.1-37.1.1.jar"
+            "url": "https://calsrl.github.io/escape/repo/lib/net/minecraftforge/fmlcore/1.17.1-37.1.1/fmlcore-1.17.1-37.1.1.jar"
           },
           "subModules": [
             {
@@ -41,7 +41,7 @@
               "artifact": {
                 "size": 17148,
                 "MD5": "b7079fa92e1260761b77cbebbd5f65c0",
-                "url": "https://calsrl.github.io/test123/repo/versions/1.17.1-forge-37.1.1/1.17.1-forge-37.1.1.json"
+                "url": "https://calsrl.github.io/escape/repo/versions/1.17.1-forge-37.1.1/1.17.1-forge-37.1.1.json"
               }
             },
             {
@@ -52,7 +52,7 @@
               "artifact": {
                 "size": 16287,
                 "MD5": "da58bcac76681781571d0d23b1e9ab81",
-                "url": "https://calsrl.github.io/test123/repo/lib/net/minecraftforge/javafmllanguage/1.17.1-37.1.1/javafmllanguage-1.17.1-37.1.1.jar"
+                "url": "https://calsrl.github.io/escape/repo/lib/net/minecraftforge/javafmllanguage/1.17.1-37.1.1/javafmllanguage-1.17.1-37.1.1.jar"
               },
               "subModules": []
             },
@@ -64,7 +64,7 @@
               "artifact": {
                 "size": 4980,
                 "MD5": "17edb519182d388e5abbad4dd646561f",
-                "url": "https://calsrl.github.io/test123/repo/lib/net/minecraftforge/mclanguage/1.17.1-37.1.1/mclanguage-1.17.1-37.1.1.jar"
+                "url": "https://calsrl.github.io/escape/repo/lib/net/minecraftforge/mclanguage/1.17.1-37.1.1/mclanguage-1.17.1-37.1.1.jar"
               },
               "subModules": []
             },
@@ -76,7 +76,7 @@
               "artifact": {
                 "size": 2338275,
                 "MD5": "4e203d37dc5c47f7d647b84743e54d1b",
-                "url": "https://calsrl.github.io/test123/repo/lib/net/minecraftforge/forge/1.17.1-37.1.1/forge-1.17.1-37.1.1-universal.jar"
+                "url": "https://calsrl.github.io/escape/repo/lib/net/minecraftforge/forge/1.17.1-37.1.1/forge-1.17.1-37.1.1-universal.jar"
               },
               "subModules": []
             },
@@ -88,7 +88,7 @@
               "artifact": {
                 "size": 4259465,
                 "MD5": "ecad4ec8050f3c71864870661eb25b4a",
-                "url": "https://calsrl.github.io/test123/repo/lib/net/minecraftforge/forge/1.17.1-37.1.1/forge-1.17.1-37.1.1-client.jar"
+                "url": "https://calsrl.github.io/escape/repo/lib/net/minecraftforge/forge/1.17.1-37.1.1/forge-1.17.1-37.1.1-client.jar"
               },
               "subModules": []
             },
@@ -100,7 +100,7 @@
               "artifact": {
                 "size": 15745893,
                 "MD5": "d9780b2fc3ed84d52c1f3cd8d00241b0",
-                "url": "https://calsrl.github.io/test123/repo/lib/net/minecraft/client/1.17.1-20210706.113038/client-1.17.1-20210706.113038-srg.jar"
+                "url": "https://calsrl.github.io/escape/repo/lib/net/minecraft/client/1.17.1-20210706.113038/client-1.17.1-20210706.113038-srg.jar"
               },
               "subModules": []
             },
@@ -112,7 +112,7 @@
               "artifact": {
                 "size": 10268370,
                 "MD5": "8c19993a3ff5945f585513c49a4151bd",
-                "url": "https://calsrl.github.io/test123/repo/lib/net/minecraft/client/1.17.1-20210706.113038/client-1.17.1-20210706.113038-slim.jar"
+                "url": "https://calsrl.github.io/escape/repo/lib/net/minecraft/client/1.17.1-20210706.113038/client-1.17.1-20210706.113038-slim.jar"
               },
               "subModules": []
             },
@@ -124,7 +124,7 @@
               "artifact": {
                 "size": 9278494,
                 "MD5": "83b5015d424a64d9911a0e520ae15840",
-                "url": "https://calsrl.github.io/test123/repo/lib/net/minecraft/client/1.17.1-20210706.113038/client-1.17.1-20210706.113038-extra.jar"
+                "url": "https://calsrl.github.io/escape/repo/lib/net/minecraft/client/1.17.1-20210706.113038/client-1.17.1-20210706.113038-extra.jar"
               },
               "subModules": []
             },
@@ -135,7 +135,7 @@
               "artifact": {
                 "size": 79913,
                 "MD5": "1ccebb7dcbf30057243433755e48697f",
-                "url": "https://calsrl.github.io/test123/repo/lib/cpw/mods/securejarhandler/0.9.54/securejarhandler-0.9.54.jar"
+                "url": "https://calsrl.github.io/escape/repo/lib/cpw/mods/securejarhandler/0.9.54/securejarhandler-0.9.54.jar"
               }
             },
             {
@@ -145,7 +145,7 @@
               "artifact": {
                 "size": 121790,
                 "MD5": "54b9f5d15e4877a4ea4cf9ec48e07afa",
-                "url": "https://calsrl.github.io/test123/repo/lib/org/ow2/asm/asm/9.1/asm-9.1.jar"
+                "url": "https://calsrl.github.io/escape/repo/lib/org/ow2/asm/asm/9.1/asm-9.1.jar"
               }
             },
             {
@@ -155,7 +155,7 @@
               "artifact": {
                 "size": 72641,
                 "MD5": "81cc6b8f5ce8f2767d39fbd4b6c37a6a",
-                "url": "https://calsrl.github.io/test123/repo/lib/org/ow2/asm/asm-commons/9.1/asm-commons-9.1.jar"
+                "url": "https://calsrl.github.io/escape/repo/lib/org/ow2/asm/asm-commons/9.1/asm-commons-9.1.jar"
               }
             },
             {
@@ -165,7 +165,7 @@
               "artifact": {
                 "size": 52662,
                 "MD5": "c2536add9ebcfa8066fcfb0dbe865879",
-                "url": "https://calsrl.github.io/test123/repo/lib/org/ow2/asm/asm-tree/9.1/asm-tree-9.1.jar"
+                "url": "https://calsrl.github.io/escape/repo/lib/org/ow2/asm/asm-tree/9.1/asm-tree-9.1.jar"
               }
             },
             {
@@ -175,7 +175,7 @@
               "artifact": {
                 "size": 84679,
                 "MD5": "2f1a28f6b0f3e02b17d38a0f657a1527",
-                "url": "https://calsrl.github.io/test123/repo/lib/org/ow2/asm/asm-util/9.1/asm-util-9.1.jar"
+                "url": "https://calsrl.github.io/escape/repo/lib/org/ow2/asm/asm-util/9.1/asm-util-9.1.jar"
               }
             },
             {
@@ -185,7 +185,7 @@
               "artifact": {
                 "size": 34257,
                 "MD5": "f0e82941173b6049c03e8214ace70ecd",
-                "url": "https://calsrl.github.io/test123/repo/lib/org/ow2/asm/asm-analysis/9.1/asm-analysis-9.1.jar"
+                "url": "https://calsrl.github.io/escape/repo/lib/org/ow2/asm/asm-analysis/9.1/asm-analysis-9.1.jar"
               }
             },
             {
@@ -195,7 +195,7 @@
               "artifact": {
                 "size": 77756,
                 "MD5": "f0d3533f9437ba4428eaee9f28f7ecd9",
-                "url": "https://calsrl.github.io/test123/repo/lib/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar"
+                "url": "https://calsrl.github.io/escape/repo/lib/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar"
               }
             },
             {
@@ -205,7 +205,7 @@
               "artifact": {
                 "size": 337868,
                 "MD5": "0dcc4b860d5d8d2852ab94d58c56ca2d",
-                "url": "https://calsrl.github.io/test123/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
+                "url": "https://calsrl.github.io/escape/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
               }
             },
             {
@@ -215,7 +215,7 @@
               "artifact": {
                 "size": 42838,
                 "MD5": "c8b735cdfe9975a569626d72ad40377f",
-                "url": "https://calsrl.github.io/test123/repo/lib/net/minecraftforge/eventbus/5.0.3/eventbus-5.0.3.jar"
+                "url": "https://calsrl.github.io/escape/repo/lib/net/minecraftforge/eventbus/5.0.3/eventbus-5.0.3.jar"
               }
             },
             {
@@ -225,7 +225,7 @@
               "artifact": {
                 "size": 21869,
                 "MD5": "b4b4b87397040701bd74ad6cbb784954",
-                "url": "https://calsrl.github.io/test123/repo/lib/net/minecraftforge/forgespi/4.0.10/forgespi-4.0.10.jar"
+                "url": "https://calsrl.github.io/escape/repo/lib/net/minecraftforge/forgespi/4.0.10/forgespi-4.0.10.jar"
               }
             },
             {
@@ -235,7 +235,7 @@
               "artifact": {
                 "size": 24199,
                 "MD5": "8c590051c5d65e098ca7c2e3ddf803a8",
-                "url": "https://calsrl.github.io/test123/repo/lib/net/minecraftforge/coremods/5.0.1/coremods-5.0.1.jar"
+                "url": "https://calsrl.github.io/escape/repo/lib/net/minecraftforge/coremods/5.0.1/coremods-5.0.1.jar"
               }
             },
             {
@@ -245,7 +245,7 @@
               "artifact": {
                 "size": 127169,
                 "MD5": "81c9715e3ad065953b03eca050aae89c",
-                "url": "https://calsrl.github.io/test123/repo/lib/cpw/mods/modlauncher/9.0.7/modlauncher-9.0.7.jar"
+                "url": "https://calsrl.github.io/escape/repo/lib/cpw/mods/modlauncher/9.0.7/modlauncher-9.0.7.jar"
               }
             },
             {
@@ -255,7 +255,7 @@
               "artifact": {
                 "size": 2834,
                 "MD5": "2d1016ebe4c1a63dd50a59d26bd12db1",
-                "url": "https://calsrl.github.io/test123/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
+                "url": "https://calsrl.github.io/escape/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
               }
             },
             {
@@ -265,7 +265,7 @@
               "artifact": {
                 "size": 199091,
                 "MD5": "093b0ca357d3f8b922170b8d7f43948c",
-                "url": "https://calsrl.github.io/test123/repo/lib/com/electronwill/night-config/core/3.6.3/core-3.6.3.jar"
+                "url": "https://calsrl.github.io/escape/repo/lib/com/electronwill/night-config/core/3.6.3/core-3.6.3.jar"
               }
             },
             {
@@ -275,7 +275,7 @@
               "artifact": {
                 "size": 31288,
                 "MD5": "615b8e62371c536f876764591990118d",
-                "url": "https://calsrl.github.io/test123/repo/lib/com/electronwill/night-config/toml/3.6.3/toml-3.6.3.jar"
+                "url": "https://calsrl.github.io/escape/repo/lib/com/electronwill/night-config/toml/3.6.3/toml-3.6.3.jar"
               }
             },
             {
@@ -285,7 +285,7 @@
               "artifact": {
                 "size": 57824,
                 "MD5": "b83c1943a0783f3f81d4cd4c83c363e1",
-                "url": "https://calsrl.github.io/test123/repo/lib/org/apache/maven/maven-artifact/3.6.3/maven-artifact-3.6.3.jar"
+                "url": "https://calsrl.github.io/escape/repo/lib/org/apache/maven/maven-artifact/3.6.3/maven-artifact-3.6.3.jar"
               }
             },
             {
@@ -295,7 +295,7 @@
               "artifact": {
                 "size": 501879,
                 "MD5": "540b1256d887a6993ecbef23371a3302",
-                "url": "https://calsrl.github.io/test123/repo/lib/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.jar"
+                "url": "https://calsrl.github.io/escape/repo/lib/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.jar"
               }
             },
             {
@@ -305,7 +305,7 @@
               "artifact": {
                 "size": 15425,
                 "MD5": "ee4596e1413cc1a5e080c971d6064753",
-                "url": "https://calsrl.github.io/test123/repo/lib/net/jodah/typetools/0.8.3/typetools-0.8.3.jar"
+                "url": "https://calsrl.github.io/escape/repo/lib/net/jodah/typetools/0.8.3/typetools-0.8.3.jar"
               }
             },
             {
@@ -315,7 +315,7 @@
               "artifact": {
                 "size": 301804,
                 "MD5": "a9ccfa7e3382dd2b9e0647a43d8286d7",
-                "url": "https://calsrl.github.io/test123/repo/lib/org/apache/logging/log4j/log4j-api/2.15.0/log4j-api-2.15.0.jar"
+                "url": "https://calsrl.github.io/escape/repo/lib/org/apache/logging/log4j/log4j-api/2.15.0/log4j-api-2.15.0.jar"
               }
             },
             {
@@ -325,7 +325,7 @@
               "artifact": {
                 "size": 1789769,
                 "MD5": "81e0433ae00602c0e4d00424d213b0ab",
-                "url": "https://calsrl.github.io/test123/repo/lib/org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar"
+                "url": "https://calsrl.github.io/escape/repo/lib/org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar"
               }
             },
             {
@@ -335,7 +335,7 @@
               "artifact": {
                 "size": 21223,
                 "MD5": "196442f1bdde4dbb0f576eed616e21b0",
-                "url": "https://calsrl.github.io/test123/repo/lib/org/apache/logging/log4j/log4j-slf4j18-impl/2.15.0/log4j-slf4j18-impl-2.15.0.jar"
+                "url": "https://calsrl.github.io/escape/repo/lib/org/apache/logging/log4j/log4j-slf4j18-impl/2.15.0/log4j-slf4j18-impl-2.15.0.jar"
               }
             },
             {
@@ -345,7 +345,7 @@
               "artifact": {
                 "size": 15977,
                 "MD5": "679363fa893293791e55a21f81342f87",
-                "url": "https://calsrl.github.io/test123/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
+                "url": "https://calsrl.github.io/escape/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
               }
             },
             {
@@ -355,7 +355,7 @@
               "artifact": {
                 "size": 150765,
                 "MD5": "a2e7b012cd9802f83321187409174a94",
-                "url": "https://calsrl.github.io/test123/repo/lib/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar"
+                "url": "https://calsrl.github.io/escape/repo/lib/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar"
               }
             },
             {
@@ -365,7 +365,7 @@
               "artifact": {
                 "size": 211712,
                 "MD5": "3c52be5ab5e3847be6e62269de924cb0",
-                "url": "https://calsrl.github.io/test123/repo/lib/org/jline/jline-terminal/3.12.1/jline-terminal-3.12.1.jar"
+                "url": "https://calsrl.github.io/escape/repo/lib/org/jline/jline-terminal/3.12.1/jline-terminal-3.12.1.jar"
               }
             },
             {
@@ -375,7 +375,7 @@
               "artifact": {
                 "size": 78146,
                 "MD5": "eb0d9dffe9b0eddead68fe678be76c49",
-                "url": "https://calsrl.github.io/test123/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar"
+                "url": "https://calsrl.github.io/escape/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar"
               }
             },
             {
@@ -385,7 +385,7 @@
               "artifact": {
                 "size": 1069391,
                 "MD5": "25fbb8ff965e88cc2252c99be0cf5cbb",
-                "url": "https://calsrl.github.io/test123/repo/lib/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar"
+                "url": "https://calsrl.github.io/escape/repo/lib/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar"
               }
             },
             {
@@ -395,7 +395,7 @@
               "artifact": {
                 "size": 2167288,
                 "MD5": "91e98c20afa1090c344229ce28b4c53f",
-                "url": "https://calsrl.github.io/test123/repo/lib/org/openjdk/nashorn/nashorn-core/15.3/nashorn-core-15.3.jar"
+                "url": "https://calsrl.github.io/escape/repo/lib/org/openjdk/nashorn/nashorn-core/15.3/nashorn-core-15.3.jar"
               }
             },
             {
@@ -405,7 +405,7 @@
               "artifact": {
                 "size": 2521113,
                 "MD5": "ddc91fd850fa6177c91aab5d4e4d1fa6",
-                "url": "https://calsrl.github.io/test123/repo/lib/com/google/guava/guava/21.0/guava-21.0.jar"
+                "url": "https://calsrl.github.io/escape/repo/lib/com/google/guava/guava/21.0/guava-21.0.jar"
               }
             },
             {
@@ -415,7 +415,7 @@
               "artifact": {
                 "size": 231952,
                 "MD5": "a42f1f5bfa4e6f123ddcab3de7e0ff81",
-                "url": "https://calsrl.github.io/test123/repo/lib/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar"
+                "url": "https://calsrl.github.io/escape/repo/lib/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar"
               }
             },
             {
@@ -425,7 +425,7 @@
               "artifact": {
                 "size": 7542,
                 "MD5": "8da451508e79cc600637f7bdd68610af",
-                "url": "https://calsrl.github.io/test123/repo/lib/cpw/mods/bootstraplauncher/0.1.17/bootstraplauncher-0.1.17.jar"
+                "url": "https://calsrl.github.io/escape/repo/lib/cpw/mods/bootstraplauncher/0.1.17/bootstraplauncher-0.1.17.jar"
               }
             },
             {
@@ -435,7 +435,7 @@
               "artifact": {
                 "size": 235478,
                 "MD5": "3da7d368acd99ca0e92e7ad60abae857",
-                "url": "https://calsrl.github.io/test123/repo/lib/net/minecraftforge/fmlloader/1.17.1-37.1.1/fmlloader-1.17.1-37.1.1.jar"
+                "url": "https://calsrl.github.io/escape/repo/lib/net/minecraftforge/fmlloader/1.17.1-37.1.1/fmlloader-1.17.1-37.1.1.jar"
               }
             }
           ]
@@ -446,7 +446,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 189977,
-            "url": "https://calsrl.github.io/test123/servers/Escape-1.17.1/forgemods/required/CocoaInput-1.17.1-forge-4.0.4.jar",
+            "url": "https://calsrl.github.io/escape/servers/Escape-1.17.1/forgemods/required/CocoaInput-1.17.1-forge-4.0.4.jar",
             "MD5": "625d77f4955bc615a7bc12aa422d54b1"
           }
         },
@@ -456,7 +456,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 6344306,
-            "url": "https://calsrl.github.io/test123/servers/Escape-1.17.1/forgemods/required/OptiFine_1.17.1_HD_U_H1.jar",
+            "url": "https://calsrl.github.io/escape/servers/Escape-1.17.1/forgemods/required/OptiFine_1.17.1_HD_U_H1.jar",
             "MD5": "ce4d0bc85481fc8e8ba10ab0106c9a5f"
           }
         },
@@ -466,7 +466,7 @@
           "type": "File",
           "artifact": {
             "size": 3449437,
-            "url": "https://calsrl.github.io/test123/servers/Escape-1.17.1/files/ComplementaryShaders_v4.3.zip",
+            "url": "https://calsrl.github.io/escape/servers/Escape-1.17.1/files/ComplementaryShaders_v4.3.zip",
             "MD5": "2913ddc51d7cc9725d1d8bad97d4db8e",
             "path": "ComplementaryShaders_v4.3.zip"
           }
@@ -477,7 +477,7 @@
           "type": "File",
           "artifact": {
             "size": 3096,
-            "url": "https://calsrl.github.io/test123/servers/Escape-1.17.1/files/options.txt",
+            "url": "https://calsrl.github.io/escape/servers/Escape-1.17.1/files/options.txt",
             "MD5": "f06fcd1dc4db3f9019d4e46d2b5d21f9",
             "path": "options.txt"
           }
@@ -488,7 +488,7 @@
           "type": "File",
           "artifact": {
             "size": 393,
-            "url": "https://calsrl.github.io/test123/servers/Escape-1.17.1/files/optionsshaders.txt",
+            "url": "https://calsrl.github.io/escape/servers/Escape-1.17.1/files/optionsshaders.txt",
             "MD5": "1f526c2134d1fdc76bd50374801ca7ac",
             "path": "optionsshaders.txt"
           }
